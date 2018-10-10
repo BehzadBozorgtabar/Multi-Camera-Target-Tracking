@@ -13,4 +13,4 @@ In addition, `main.m` performs single camera tracking.
 
 ## Dataset
 
-You can use any multi-camera tracking dataset given the camera parameters. For example  DukeMTMC dataset from [here](http://vision.cs.duke.edu/DukeMTMC/).
+You can use any multi-camera tracking dataset given the camera parameters. For example  DukeMTMC dataset from [here](http://vision.cs.duke.edu/DukeMTMC/details.html).
